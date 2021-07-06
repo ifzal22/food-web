@@ -43,27 +43,25 @@ section{
 h1{
     color:#61424b;
     font-size: 50px;
+    margin-bottom: 20px;
     
 }
 p{
     color:#b3a0a0;
 }
 .bottom-food {
-    background: linear-gradient(#e33a3a, #ffbe47);
-    
-    top:10px;
-
-    padding:10px 40px;
-    border-radius: 30px;
     text-decoration: none;
-    color:white;
+    background: linear-gradient(
+78deg
+, #e21006, #ffb4a7);
+    padding: 10px 40px;
+    border-radius: 20px;
+    color: white;
+    position: absolute;
     font-weight: 700;
-    margin-top: 30px;
-    
+    box-shadow: 2px 6px 4px 0px #b6b5b5c9;
 }
-.adject a{
-    margin-top: 20px;
-}
+
 
 .second-adject{
     margin-left: 5%;
@@ -72,9 +70,12 @@ p{
 }
 
 .midil-section{
-    background-image: url(image/need-1/7.png);
+    background-image: url(image/need-1/Frame\ 58.png);
     background-repeat: no-repeat;
-    margin-left: 20px;
+    background-attachment: ;
+ background-position: center;
+    background-size:contain;
+    ;
 }
 .second-adject{
 
@@ -157,8 +158,12 @@ padding:10px;
     padding:50px;
 }
 .life{
-    color:burlywood;
+    font-size: 40px;
+    color: floralwhite
 }
+.footer h2{
+    margin-bottom: 20px;}
+
 .food-section{
     width:100%;
     display: flex;
