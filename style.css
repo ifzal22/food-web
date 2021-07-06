@@ -72,7 +72,7 @@ p{
 .midil-section{
     background-image: url(image/need-1/Frame\ 58.png);
     background-repeat: no-repeat;
-    background-attachment: ;
+    
  background-position: center;
     background-size:contain;
     ;
@@ -129,11 +129,11 @@ padding:10px;
 /*    
 #food-boox{
     margin-right:20px; */
-}
 
-.text-size{
+
+
     
-}
+
 .displayflex{
     display: inline-flex;
     position: absolute;
